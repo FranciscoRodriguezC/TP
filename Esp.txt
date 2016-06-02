@@ -2,7 +2,7 @@ se creará un codigo en python:
 se crea un contador en 0
 se creara la sentencia while para la ejecucion ciclica del programa mientra sea verdadera la misma
 se precenta una condicion lógica en la cual los multipos de 5 como los de 3 sean verdaderos 
-imprime el numero si la condicion anteror es verdadera
+imprime el fizzbuzz si la condicion anteror es verdadera
 se va a sumar en la variable x un uno siempre y cuando las condiciones anteriores se cumplan.
 se evalua si x es multiplo 3 
 imprime en pantalla fizz si la condición anterior es verdadera.
@@ -11,4 +11,5 @@ se precenta una condicón lógica evaluando si x es multiplo 5
 imprime en pantalla Buzz si la condición anterior es verdadera.
 se va a sumar en la variable x un uno siempre y cuando las condiciones anteriores se cumplan.
 si no se cumplen ninguna de las condiciones anteriores se activa la condicón logica sino.
+imprime en pantalla el valor de x. 
 se va a sumar en la variable x un uno siempre y cuando las condiciones anteriores se cumplan.
