@@ -4,7 +4,7 @@ se creara la sentencia while para la ejecucion ciclica del programa mientra sea 
 se precenta una condicion lógica en la cual los multipos de 5 como los de 3 sean verdaderos 
 imprime el numero si la condicion anteror es verdadera
 se va a sumar en la variable x un uno siempre y cuando las condiciones anteriores se cumplan.
-se precenta una condicón lógica evalando si x es multiplo 3 
+se evalua si x es multiplo 3 
 imprime en pantalla fizz si la condición anterior es verdadera.
 se va a sumar en la variable x un uno siempre y cuando las condiciones anteriores se cumplan.
 se precenta una condicón lógica evaluando si x es multiplo 5
