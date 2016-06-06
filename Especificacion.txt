@@ -1,0 +1,7 @@
+Se crea un programa llamado fibonacci:
+Se define una función llamada fib con un parametro (i)
+se crea una variable a igualada a cero una b igualada a 1 una c igualada a cero
+luego se crea un while para que compare la variable c mientras c sea menor a i(parametro que nos indica hasta donde debe llegar el conteo)
+después imprime la variable c
+luego a la variable a se le asigna la variable b, a la variable b se le asigna la variable c, a la variable c se le asigna la suma de a+b       
+por ultimo llamamos a la funcion  "fib" parametrado hasta 1000000 
